@@ -1,4 +1,4 @@
-# Mixeirino
+# Mixerino
 
 ## The App will be used to search for Cocktail Recipies. People can get random or filter for specific cocktails.
 
