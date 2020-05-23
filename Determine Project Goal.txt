@@ -1,8 +1,0 @@
-Determine Project Goal
-Determine Target Audience
-Find Core App Feature
-Choose Technology
-Design The UI/UX
-Build Core App Feature
-Test With Audience
-Interate

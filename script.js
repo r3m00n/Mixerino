@@ -22,5 +22,5 @@ fetch("https://www.thecocktaildb.com/api/json/v1/1/random.php")
         Object.values(data.drinks[0])[i].toLowerCase();
       ul.appendChild(liElement);
     }
-  })
-  .catch((error) => console.log(error));
+  });
+//.catch((error) => console.log(error));
