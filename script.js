@@ -22,5 +22,4 @@ fetch("https://www.thecocktaildb.com/api/json/v1/1/random.php")
         Object.values(data.drinks[0])[i].toLowerCase();
       ul.appendChild(liElement);
     }
-  });
-//.catch((error) => console.log(error));
+  }); //usually I would add a catch here, that I don't do it here has a reason ;)
